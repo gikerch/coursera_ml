@@ -1,4 +1,5 @@
 # coursera_ml
+# 吴恩达机器学习课程，python实现
 Programming projects for the Coursera Machine Learning course taught by Stanford Prof. Andrew Ng, completed in **octave/matlab**. I have also implemented some of these projects in **python using the scikit-learn library** for my own research and development purposes.
 
 ### Unit 4: *Project 1-Linear Regression*
